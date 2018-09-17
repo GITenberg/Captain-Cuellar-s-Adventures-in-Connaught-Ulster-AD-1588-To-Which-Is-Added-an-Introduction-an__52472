@@ -1,0 +1,47 @@
+_repo: Captain-Cuellar-s-Adventures-in-Connaught-Ulster-AD-1588-To-Which-Is-Added-an-Introduction-an__52472
+_version: 0.0.1
+contributor:
+  other_contributor:
+    agent_name: Fernández Duro, Cesáreo
+    aliases:
+    - Fernández, Cesáreo
+    - Fernández y Duro, Cesáreo
+    - Fernandez Duro, Cesareo
+    - Duro, Cesáreo Fernández
+    birthdate: 1830
+    deathdate: 1908
+    gutenberg_agent_id: '26355'
+    url: http://www.gutenberg.org/2009/agents/26355
+  translator:
+    agent_name: Crawford, Robert
+    alias: Crawford, R. (Robert)
+    birthdate: 1831
+    deathdate: 1914
+    gutenberg_agent_id: '46877'
+    url: http://www.gutenberg.org/2009/agents/46877
+creator:
+  authors:
+  - agent_name: Allingham, Hugh
+    gutenberg_agent_id: '46876'
+    url: http://www.gutenberg.org/2009/agents/46876
+  - agent_name: Cuellar, Francisco de, active 16th century
+    alias: De Cuellar, Francisco
+    gutenberg_agent_id: '46841'
+    url: http://www.gutenberg.org/2009/agents/46841
+description: ''
+gutenberg_issued: '2016-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52472'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Armada, 1588'
+- GITenberg
+title: "Captain Cuellar's Adventures in Connaught & Ulster A.D. 1588.\r\nTo Which\
+  \ Is Added an Introduction and Complete Translation of Captain Cuellar's Narrative\
+  \ of the Spanish Armada and His Adventures in Ireland"
+url: http://www.gutenberg.org/ebooks/52472
